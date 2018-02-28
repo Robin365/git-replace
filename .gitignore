@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.node_repl_history
+.idea
+.node_modules
+node_modules
+.vscode
